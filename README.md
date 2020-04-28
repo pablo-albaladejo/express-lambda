@@ -6,6 +6,8 @@
         $ npm init
         $ npm install express --save
 
-2. Endpoint
+2. Endpoints
 
-        http://localhost:3000/api/v1/messages
+        http://localhost:3000/api/v1/messages/all
+        http://localhost:3000/api/v1/messages/random
+        http://localhost:3000/api/v1/messages/:id
