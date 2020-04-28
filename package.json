@@ -1,0 +1,22 @@
+{
+  "name": "express-lambda",
+  "version": "1.0.0",
+  "description": "[Guide](https://expressjs.com/en/starter/installing.html)",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pablo-albaladejo/express-lambda.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pablo-albaladejo/express-lambda/issues"
+  },
+  "homepage": "https://github.com/pablo-albaladejo/express-lambda#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
