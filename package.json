@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/pablo-albaladejo/express-lambda#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "4.17.1",
+    "swagger-endpoint-validator": "1.1.3"
   }
 }
